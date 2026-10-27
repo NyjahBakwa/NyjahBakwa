@@ -74,11 +74,13 @@ I build web apps, and things you can actually hold: robots, handhelds and other 
 | --- | --- | --- |
 | **Universal Console Launcher** | Custom handheld retro gaming console | Raspberry Pi 5 |
 | **Robospin** | Six-legged hexapod robot with custom servo logic | Arduino, C++ |
-| **StudyBuddy** | Smart study planner (team project, backend) | Python, Flask, SQLite |
-| **WeatherLite** | Weather app | HTML, CSS, JavaScript |
-| **UDecideWise** | Decision helper | HTML, CSS, JavaScript |
-| **FinancialTrackr** | Personal finance tracker | HTML, CSS, JavaScript |
-| **GuessThatFilm** | Film guessing game | HTML, CSS, JavaScript |
+| **Gemini Chatbot** | Chatbot that remembers the conversation, built on the Gemini API | Python, Flask, Gemini API |
+| **Tekst-samenvatter** | Summarizes long texts into key points, action items or a short summary | Python, Flask, Gemini API |
+| **n8n AI-antwoordmail** | Contact form that lets AI draft a reply email in Gmail | n8n, Gemini API, Gmail |
+| **FinancialTrackr** | Track income, expenses and monthly budgets per category, with user accounts | Python, Flask, SQLite, Chart.js |
+| **WeatherLite** | Current weather for any city | HTML, CSS, JavaScript, OpenWeatherMap API |
+| **GuessThatFilm** | Guess the movie from emojis, hangman-style | HTML, CSS, JavaScript |
+| **UDecideWise** | Pros and cons list that helps you make a decision | HTML, CSS, JavaScript |
  
 On my [portfolio](https://nyjahbakwa.netlify.app).
  
